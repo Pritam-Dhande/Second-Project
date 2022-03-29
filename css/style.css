@@ -16,6 +16,7 @@
 .header h2{
     height: 170px;
     float: left;
+    color: #fff;
 }
 .login-btn{
     width: 100px;
